@@ -6,16 +6,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `git clone`
 
-Clone directory.\
+Clone directory.
 
 ### `cd hello-world`
 
-Change directory.\
+Change directory.
 
 ### `docker build -t reactapp `
 
-Create image with name reactapp.\
+Create image with name reactapp.
 
 ### `docker run -it -p 3000:3000 reactapp .`
 
-Drive the container from the image reactapp on port 3000.\
+Drive the container from the image reactapp on port 3000.
