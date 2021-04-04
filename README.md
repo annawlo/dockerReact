@@ -1,4 +1,4 @@
-# Getting Started with Create React App and Docker
+# React template with Docker set up - basic (without docker-compose)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and set up with Docker.
 
